@@ -1,0 +1,35 @@
+-- truism
+-- fakism
+  # a user should be able to write a review on either itel, techno, or infinix phones
+  # they should give a screenshot of their gadget credentials
+  # a screenshot of their nrc, which will be private
+  # they are allowed to write a review only after doing a few actions on the website
+  # so they aquire review_points which will be expended on a user reviewing a gadget
+  
+  # other users can rate the tuism and fakism of the review on the said gadget
+  # a user is allowed to write anything on the gadget aside from using vulgar lanaguage.
+  # a user who has completely formed their profile will be verified
+  # the highest rated review on truism will have the reviewer paid at the end of the month
+  # the reviews will also allow videos of someone reviewing the phone. Saying what they know about it. There experience, good or bad with it
+  
+  #  tecnologies to user
+  - php and vanilla javascript  - with jquery and bpootstrap
+  
+  
+  app flow
+  
+  user comes to site, sees a Continue With *Facebook Button*, this either signs in or signs up a user
+  a user sees a review_points count on their top right corner and a *Add Review Button* on the main screen
+  when a user clicks add review, depending on whether they have enough review_points, they can proccede to the Review Writing Dashboard or not
+  If the review_points are lower than 0 though, the user has to gain some by performaing either of a few tasks
+   - review other reviews on the site
+   - go to the main site's link, view the site's posts and click on any of the posts about the gadget they aim to review
+  If a user has gotten their review ranked up so high, they are eligible for being paid, if:
+  they are verified, and how to get verified is the following
+  - Upload a valid nrc
+  - An active airtel or mtn mobile money number
+  - And we should verify them actively by clicking on *Verify User* in the admin panel
+  
+  admin.amagadget.com
+  
+  
